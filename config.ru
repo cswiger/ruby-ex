@@ -227,6 +227,7 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>My amazing updated header</h1>
+	    <h1>Well this is just great!</h1>
           </hgroup>
 
 
