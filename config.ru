@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>This is my openshift app change</h1>
+            <h1>Pretend this is original text</h1>
           </hgroup>
 
 
