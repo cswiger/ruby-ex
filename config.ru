@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Pretend this is original text</h1>
+            <h1>My amazing updated header</h1>
           </hgroup>
 
 
